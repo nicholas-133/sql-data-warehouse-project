@@ -118,13 +118,13 @@
         <mxCell id="HHSEadN-c8XD44LDuGr7-25" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="122" width="200" height="598" as="geometry" />
         </mxCell>
-        <mxCell id="HHSEadN-c8XD44LDuGr7-44" value="crm_sales_details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2C0;" vertex="1" parent="HHSEadN-c8XD44LDuGr7-25">
+        <mxCell id="HHSEadN-c8XD44LDuGr7-44" value="fact_sales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2C0;" vertex="1" parent="HHSEadN-c8XD44LDuGr7-25">
           <mxGeometry x="15" y="78" width="170" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="HHSEadN-c8XD44LDuGr7-45" value="crm_cust_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2C0;" vertex="1" parent="HHSEadN-c8XD44LDuGr7-25">
+        <mxCell id="HHSEadN-c8XD44LDuGr7-45" value="dim_customers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2C0;" vertex="1" parent="HHSEadN-c8XD44LDuGr7-25">
           <mxGeometry x="15" y="282" width="170" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="HHSEadN-c8XD44LDuGr7-46" value="crm_prod_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2C0;" vertex="1" parent="HHSEadN-c8XD44LDuGr7-25">
+        <mxCell id="HHSEadN-c8XD44LDuGr7-46" value="dim_products" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2C0;" vertex="1" parent="HHSEadN-c8XD44LDuGr7-25">
           <mxGeometry x="15" y="398" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="HHSEadN-c8XD44LDuGr7-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHSEadN-c8XD44LDuGr7-27" target="HHSEadN-c8XD44LDuGr7-33">
