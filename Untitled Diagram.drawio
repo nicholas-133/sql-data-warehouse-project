@@ -199,7 +199,7 @@
             <mxPoint x="900" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHSEadN-c8XD44LDuGr7-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Data Flow&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="HHSEadN-c8XD44LDuGr7-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Data Flow&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="315" y="10" width="470" height="50" as="geometry" />
         </mxCell>
       </root>
