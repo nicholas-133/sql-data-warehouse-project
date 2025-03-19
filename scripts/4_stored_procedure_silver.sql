@@ -1,6 +1,3 @@
-Use DataWarehouse;
-
-
 /* 
 ==============================================================================================
 Create Stored Procedure: Load Silver Layer (Bronze -> Silver)
