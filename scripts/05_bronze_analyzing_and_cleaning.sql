@@ -5,13 +5,17 @@ Data Exploring, Analyzing, and Cleaning BRONZE Tables
 
 Script Purpose:
 	This script performs various audits for data consistency,
-	accuracy, and standardization across the 'bronze' schemas. It includes
-	audits for:
+	accuracy, and standardization across the 'bronze' schemas.
+	It includes audits for:
 		- Null or duplicate primary keys.
 		- Unwanted Spaces in string fiels.
 		- Data standardization and consistency.
 		- Invalid date ranges and orders.
 		- Data consistency between related fields.
+	
+	The Script also provides a query solution for cleaning and prepping for
+	migration to Silver Table (refer to Silver Stored Procedure where 
+	this query is implemented).
 */
 
 
