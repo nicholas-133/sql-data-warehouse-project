@@ -178,8 +178,8 @@
             <mxPoint x="810" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvKv0J4FkMkMPMl4whOm-19" value="&lt;div&gt;Sales Data Mart &lt;span style=&quot;font-weight: normal;&quot;&gt;(Star Schema)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="400" height="60" as="geometry" />
+        <mxCell id="EvKv0J4FkMkMPMl4whOm-19" value="&lt;div&gt;Sales Data Mart &lt;span style=&quot;font-weight: normal;&quot;&gt;(Star Schema)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EvKv0J4FkMkMPMl4whOm-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="430" y="160" width="250" height="430" as="geometry" />
